@@ -1,0 +1,5 @@
+{
+  "name": "Bus Stop Announcer (Malayalam)",
+  "description": "A mobile-friendly app that announces upcoming bus stops in Malayalam using GPS and AI voice.",
+  "requestFramePermissions": ["geolocation", "microphone"]
+}
